@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNoYjQ3djAzNTN1dDMydW9sOW5heDJubDVsMjMyM3hjcmJzeGlycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Bhavu7/Bhavu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
