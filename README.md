@@ -1,6 +1,6 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Bhavesh Bhoi</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Engineer | Tech Enthusiast</h3>
+<!-- Header Banner -->
+<h1 align="center">Hey there 👋, I'm Bhavesh Bhoi</h1>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist | React & Node.js Enthusiast</h3>
 
 <p align="center">
   <a href="https://developer-bhavesh.netlify.app" target="_blank">
@@ -19,11 +19,100 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Bhavesh Bhoi
-Role: Full Stack Developer (MERN Stack)
-Education: B.Sc. in Computer Application & IT
-Location: Anand, Gujarat, India 🇮🇳
-Open to: Internships | Remote Work | Freelance Projects
+Hi, I’m **Bhavesh Bhoi**, a passionate and performance-driven **Full Stack Developer** from India with a focus on building fast, responsive, and accessible web applications. I'm proficient in **JavaScript**, **React**, **Next.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into elegant digital solutions.
+
+I specialize in **MERN stack development**, and I’m constantly leveling up my skill set with tools and technologies like **TypeScript**, **Firebase**, **Bootstrap CSS** and **Tailwind CSS**. My goal is to create scalable, maintainable, and high-quality code that drives user engagement and business results.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `Python` `C/C++`
+
+**Frontend**  
+`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Redux Toolkit`
+
+**Backend & Databases**  
+`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Postman` `Vercel` `Netlify` `VS Code`
+
+**Design & Creative Tools**  
+`Figma` `Canva` `Adobe Premiere Pro` `Adobe Photoshop`
+
+---
+
+## 📌 Featured Projects
+
+Here are a few notable projects I've worked on:
+
+### 🌀 [Weather App](https://github.com/Bhavu7/Weather-App)
+A clean, minimalist app that uses the OpenWeather API to display real-time weather data with intuitive UI/UX.
+
+**Tech Stack**: HTML, CSS, JavaScript  
+**Features**: Live data, city-based search, responsive UI
+
+---
+
+### 📝 [To-Do List App](https://github.com/Bhavu7/TODO)
+A simple yet elegant task manager using LocalStorage for persistence and interactive CRUD operations.
+
+**Tech Stack**: JavaScript, HTML, CSS  
+**Features**: Add/edit/delete tasks, real-time updates, minimal UI
+
+---
+
+### 🧮 [Calculator App](https://github.com/Bhavu7/calculator)
+Basic calculator built with clean vanilla JavaScript logic and a user-friendly interface.
+
+**Tech Stack**: JavaScript, HTML, CSS  
+**Features**: Basic arithmetic operations, responsive design
+
+> 🔗 Explore more projects on my [portfolio site](https://developer-bhavesh.netlify.app)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavu7&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🗂️ Keywords (for SEO)
+
+`Full Stack Web Developer`, `MERN Stack Developer`, `React.js Developer`, `Node.js Developer`, `Frontend Developer India`, `Backend Developer India`, `JavaScript Developer`, `MongoDB`, `Freelance Web Developer India`, `Open Source Contributor`, `GitHub Profile Developer`, `Web Portfolio`, `Tailwind CSS`, `Next.js Developer`, `Remote Developer India`, `Developer Portfolio`, `GitHub Resume`, `Hire MERN Developer`
+
+---
+
+## 🧭 Currently Exploring
+
+- 🌱 TypeScript + Next.js advanced patterns
+- 🚀 Headless CMS integrations (e.g. Sanity, Contentful)
+- 🧠 Improving UI/UX practices through real-world projects
+- 🎯 Open-source contributions & collaboration
+
+---
+
+## 📬 Get in Touch
+
+- 🔗 LinkedIn: [bhaveshbhoi07](https://www.linkedin.com/in/bhaveshbhoi07)
+- 💼 Portfolio: [bhaveshbhoi.tech](https://developer-bhavesh.netlify.app)
+- 📧 Email: [bhaveshbhoi173@gmail.com](mailto:bhavubhoi806@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+> I balance code with creativity—editing videos and exploring design tools in my downtime. Coding is my career, but creativity is my craft. 🎥🎨
+
+---
+
+> ✨ _Consistency beats perfection. Stay curious, stay committed, keep shipping!_
