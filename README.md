@@ -50,10 +50,10 @@ I specialize in **MERN stack development**, and I’m constantly leveling up my 
 
 Here are a few notable projects I've worked on:
 
-### 🌀 [Weather App](https://github.com/Bhavu7/Weather-App)
+### 🌀 [Weather App](https://bhavu7.github.io/Weather-Dashboard/)
 A clean, minimalist app that uses the OpenWeather API to display real-time weather data with intuitive UI/UX.
 
-**Tech Stack**: HTML, CSS, JavaScript  
+**Tech Stack**: HTML, CSS, JavaScript,   
 **Features**: Live data, city-based search, responsive UI
 
 ---
@@ -103,9 +103,9 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 
 ## 📬 Get in Touch
 
-- 🔗 LinkedIn: [bhaveshbhoi07](https://www.linkedin.com/in/bhaveshbhoi07)
-- 💼 Portfolio: [bhaveshbhoi.tech](https://developer-bhavesh.netlify.app)
-- 📧 Email: [bhaveshbhoi173@gmail.com](mailto:bhavubhoi806@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/bhavesh-bhoi](https://www.linkedin.com/in/bhavesh-bhoi)
+- 💼 Portfolio: [https://developer-bhavesh.netlify.app](https://developer-bhavesh.netlify.app)
+- 📧 Email: [bhavubhoi806@gmail.com](mailto:bhavubhoi806@gmail.com)
 
 ---
 
