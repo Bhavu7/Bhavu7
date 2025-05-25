@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://developer-bhavesh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-bhaveshbhoi.tech-0e76a8?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-developer-bhavesh.netlify.app-0e76a8?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
