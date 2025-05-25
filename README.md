@@ -86,9 +86,9 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 
 ---
 
-## 🗂️ Keywords (for SEO)
+## 🔍 Keywords & Specialties
 
-`Full Stack Web Developer`, `MERN Stack Developer`, `React.js Developer`, `Node.js Developer`, `Frontend Developer India`, `Backend Developer India`, `JavaScript Developer`, `MongoDB`, `Freelance Web Developer India`, `Open Source Contributor`, `GitHub Profile Developer`, `Web Portfolio`, `Tailwind CSS`, `Next.js Developer`, `Remote Developer India`, `Developer Portfolio`, `GitHub Resume`, `Hire MERN Developer`
+`Full Stack Web Developer` · `MERN Stack Developer` · `React.js Developer` · `Node.js Developer` · `JavaScript Engineer` · `MongoDB Specialist` · `Freelance Web Developer in India` · `Open Source Contributor` · `Responsive UI Designer` · `GitHub Profile Developer` · `Portfolio-Driven Developer` · `Tailwind CSS Expert` · `Next.js Developer` · `Remote Developer (India)` · `Developer Resume` · `Hire MERN Developer`
 
 ---
 
