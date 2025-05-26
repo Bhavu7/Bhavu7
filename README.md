@@ -66,7 +66,7 @@ A simple yet elegant task manager using LocalStorage for persistence and interac
 
 ---
 
-### 🧮 [Calculator App](https://github.com/Bhavu7/calculator)
+### 🧮 [Calculator App(OmniCalc)](https://bhavu7.github.io/OmniCalc/)
 Basic calculator built with clean vanilla JavaScript logic and a user-friendly interface.
 
 **Tech Stack**: JavaScript, HTML, CSS  
