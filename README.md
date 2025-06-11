@@ -1,8 +1,8 @@
-<!-- Terminal Typing Banner -->
-<h2 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&width=500&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Bhoi!;MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Specialist;Let's+Build+the+Web+Together!" alt="Typing SVG" />
-</h2>
+</p>
 
+<h1 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist | React & Node.js Enthusiast</h1>
 
 <p align="center">
 <a href="https://developer-bhavesh.netlify.app" target="_blank">
@@ -123,9 +123,9 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 
 ## 📬 Get in Touch
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/bhavesh-bhoi](https://www.linkedin.com/in/bhavesh-bhoi)
-- 💼 Portfolio: [https://developer-bhavesh.netlify.app](https://developer-bhavesh.netlify.app)
-- 📧 Email: [bhavubhoi806@gmail.com](mailto:bhavubhoi806@gmail.com)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhavesh-bhoi)
+- 💼 Portfolio: [Netlify](https://developer-bhavesh.netlify.app)
+- 📧 Email: [Mail](mailto:bhavubhoi806@gmail.com)
 
 ---
 
