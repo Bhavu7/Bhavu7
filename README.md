@@ -3,17 +3,17 @@
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist | React & Node.js Enthusiast</h3>
 
 <p align="center">
-<a href="https://developer-bhavesh.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-developer--bhavesh.netlify.app-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
-</a>
+  <a href="https://developer-bhavesh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-developer--bhavesh.netlify.app-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
+  </a>
   <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:bhavubhoi806@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://linktr.ee/developer_bhavesh" target="_blank">
-    <img src="https://img.shields.io/badge/All%20Links-Linktree-39e09b?style=for-the-badge&logo=linktree" />
+  <a href="https://bhavu7.github.io/BhavuVerse/" target="_blank">
+    <img src="https://img.shields.io/badge/All%20Links-Linktree-39e09b?style=for-the-badge&logo=linktree" alt="Linktree Badge" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 Hi, I’m **Bhavesh Bhoi**, a passionate and performance-driven **Full Stack Developer** from India with a focus on building fast, responsive, and accessible web applications. I'm proficient in **JavaScript**, **React**, **Next.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into elegant digital solutions.
 
-I specialize in **MERN stack development**, and I’m constantly leveling up my skill set with tools and technologies like **TypeScript**, **Firebase**, **Bootstrap CSS** and **Tailwind CSS**. My goal is to create scalable, maintainable, and high-quality code that drives user engagement and business results.
+I specialize in **MERN stack development**, and I’m constantly leveling up with tools and technologies like **TypeScript**, **Firebase**, **Bootstrap**, and **Tailwind CSS**. My goal is to build scalable, maintainable, and high-quality code that drives user engagement and business results.
 
 ---
 
@@ -48,29 +48,27 @@ I specialize in **MERN stack development**, and I’m constantly leveling up my 
 
 ## 📌 Featured Projects
 
-Here are a few notable projects I've worked on:
-
 ### 🌀 [Weather App](https://bhavu7.github.io/Weather-Dashboard/)
-A clean, minimalist app that uses the OpenWeather API to display real-time weather data with intuitive UI/UX.
+A clean, minimalist app using the OpenWeather API to display real-time weather data.
 
-**Tech Stack**: HTML, CSS, JavaScript,   
-**Features**: Live data, city-based search, responsive UI
+> **Stack**: HTML, CSS, JavaScript  
+> **Features**: Live data, city-based search, responsive UI
 
 ---
 
 ### 📝 [To-Do List App](https://github.com/Bhavu7/TODO)
-A simple yet elegant task manager using LocalStorage for persistence and interactive CRUD operations.
+An elegant task manager with LocalStorage persistence and smooth CRUD operations.
 
-**Tech Stack**: JavaScript, HTML, CSS  
-**Features**: Add/edit/delete tasks, real-time updates, minimal UI
+> **Stack**: JavaScript, HTML, CSS  
+> **Features**: Add/edit/delete tasks, real-time updates, minimal UI
 
 ---
 
-### 🧮 [Calculator App(OmniCalc)](https://bhavu7.github.io/OmniCalc/)
-Basic calculator built with clean vanilla JavaScript logic and a user-friendly interface.
+### 🧮 [Calculator App (OmniCalc)](https://bhavu7.github.io/OmniCalc/)
+Basic calculator built with clean vanilla JS logic and a user-friendly interface.
 
-**Tech Stack**: JavaScript, HTML, CSS  
-**Features**: Basic arithmetic operations, responsive design
+> **Stack**: JavaScript, HTML, CSS  
+> **Features**: Arithmetic operations, responsive design
 
 > 🔗 Explore more projects on my [portfolio site](https://developer-bhavesh.netlify.app)
 
@@ -79,9 +77,9 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavu7&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats-bhavu7.vercel.app/api?username=Bhavu7&show_icons=true&theme=tokyonight&hide_border=true" width="45%" alt="Bhavesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavu7&theme=tokyonight&hide_border=true" width="45%" alt="Bhavesh's GitHub Streak" />
+  <img src="https://github-readme-stats-bhavu7.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 ---
@@ -94,18 +92,18 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 
 ## 🧭 Currently Exploring
 
-- 🌱 TypeScript + Next.js advanced patterns
-- 🚀 Headless CMS integrations (e.g. Sanity, Contentful)
-- 🧠 Improving UI/UX practices through real-world projects
+- 🌱 TypeScript + Next.js advanced patterns  
+- 🚀 Headless CMS integrations (e.g. Sanity, Contentful)  
+- 🧠 Improving UI/UX practices through real-world projects  
 - 🎯 Open-source contributions & collaboration
 
 ---
 
 ## 📬 Get in Touch
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/bhavesh-bhoi](https://www.linkedin.com/in/bhavesh-bhoi)
-- 💼 Portfolio: [https://developer-bhavesh.netlify.app](https://developer-bhavesh.netlify.app)
-- 📧 Email: [bhavubhoi806@gmail.com](mailto:bhavubhoi806@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-bhoi)  
+- 💼 [Portfolio](https://developer-bhavesh.netlify.app)  
+- 📧 [Email Me](mailto:bhavubhoi806@gmail.com)
 
 ---
 
