@@ -1,74 +1,81 @@
-<!-- Dynamic Typing Banner -->
+<!-- Terminal Typing Banner -->
 <p align="center">
-  <a href="https://developer-bhavesh.netlify.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3000&pause=500&color=FF6B6B&background=0A0A23&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Bhavesh+Bhoi!;MERN+Stack+Maestro;Crafting+Next-Gen+Web+Apps+with+React+%26+Node;Ready+to+Build+Something+Epic?" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&width=500&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Bhoi!;MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Specialist;Let's+Build+the+Web+Together!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🔥 Bhavesh Bhoi | Full Stack MERN Innovator</h1>
-<p align="center"><em>Building lightning-fast, scalable web apps with React, Node.js, and MongoDB.</em></p>
+<h1 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist | React & Node.js Enthusiast</h1>
 
 <p align="center">
-  <a href="https://developer-bhavesh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A23?style=flat-square&logo=netlify&logoColor=00C4B4&color=0A0A23" alt="Portfolio" />
-  </a>
+<a href="https://developer-bhavesh.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-developer--bhavesh.netlify.app-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
+</a>
   <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bhavubhoi806@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF3D00?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://bhavu7.github.io/BhavuVerse/" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" />
+    <img src="https://img.shields.io/badge/All%20Links-Linktree-39e09b?style=for-the-badge&logo=linktree" />
   </a>
 </p>
 
 ---
 
-## 🌌 About Me
+## 👨‍💻 About Me
 
-I'm **Bhavesh Bhoi**, a **Full Stack Developer** from India with a passion for creating **MERN stack** applications that are fast, intuitive, and scalable. I specialize in turning ideas into reality with clean code and modern frameworks like **React**, **Next.js**, and **Node.js**. My focus is on delivering pixel-perfect UI, robust backends, and seamless user experiences.
+Hi, I’m **Bhavesh Bhoi**, a passionate and performance-driven **Full Stack Developer** from India with a focus on building fast, responsive, and accessible web applications. I'm proficient in **JavaScript**, **React**, **Next.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into elegant digital solutions.
 
-Currently, I'm exploring **TypeScript**, **Next.js 14**, and **headless CMS** solutions while contributing to open-source projects and pushing the boundaries of UI/UX design.
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+I specialize in **MERN stack development**, and I’m constantly leveling up my skill set with tools and technologies like **TypeScript**, **Firebase**, **Bootstrap CSS** and **Tailwind CSS**. My goal is to create scalable, maintainable, and high-quality code that drives user engagement and business results.
 
 ---
 
-## 🚀 Key Projects
+## 🔧 Tech Stack
 
-### 🌦️ [Weather Dashboard](https://bhavu7.github.io/Weather-Dashboard/)
-A dynamic weather app with real-time data and a polished, mobile-first UI.  
-**Tech**: React, Tailwind CSS, OpenWeather API  
-**Features**: Instant city weather, sleek animations, responsive design
+**Languages**  
+`JavaScript` `TypeScript` `Python` `C/C++`
 
-### 📋 [To-Do List App](https://github.com/Bhavu7/TODO)
-A streamlined task manager with smooth CRUD operations and LocalStorage.  
-**Tech**: JavaScript, HTML, CSS  
-**Features**: Real-time updates, minimalist UX, persistent storage
+**Frontend**  
+`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Redux Toolkit`
 
-### 🧮 [OmniCalc](https://bhavu7.github.io/OmniCalc/)
-A modern calculator app with clean design and reliable functionality.  
-**Tech**: JavaScript, Tailwind CSS, HTML  
-**Features**: Core arithmetic, responsive layout, intuitive UI
+**Backend & Databases**  
+`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs`
 
-> 🔗 Check out more on my [Portfolio](https://developer-bhavesh.netlify.app)
+**Tools & Platforms**  
+`Git` `GitHub` `Postman` `Vercel` `Netlify` `VS Code`
+
+**Design & Creative Tools**  
+`Figma` `Canva` `Adobe Premiere Pro` `Adobe Photoshop`
+
+---
+
+## 📌 Featured Projects
+
+Here are a few notable projects I've worked on:
+
+### 🌀 [Weather App](https://bhavu7.github.io/Weather-Dashboard/)
+A clean, minimalist app that uses the OpenWeather API to display real-time weather data with intuitive UI/UX.
+
+**Tech Stack**: HTML, CSS, JavaScript,   
+**Features**: Live data, city-based search, responsive UI
+
+---
+
+### 📝 [To-Do List App](https://github.com/Bhavu7/TODO)
+A simple yet elegant task manager using LocalStorage for persistence and interactive CRUD operations.
+
+**Tech Stack**: JavaScript, HTML, CSS  
+**Features**: Add/edit/delete tasks, real-time updates, minimal UI
+
+---
+
+### 🧮 [Calculator App(OmniCalc)](https://bhavu7.github.io/OmniCalc/)
+Basic calculator built with clean vanilla JavaScript logic and a user-friendly interface.
+
+**Tech Stack**: JavaScript, HTML, CSS  
+**Features**: Basic arithmetic operations, responsive design
+
+> 🔗 Explore more projects on my [portfolio site](https://developer-bhavesh.netlify.app)
 
 ---
 
@@ -84,46 +91,42 @@ A modern calculator app with clean design and reliable functionality.
 
 ---
 
-## 🌍 Contributions
+## 🌱 Open Source Heatmap
 
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/Bhavu7.svg?color=FF6B6B&style=calendar" alt="GitHub Contributions" />
+  <img src="https://github-contributions-api.deno.dev/Bhavu7.svg" />
 </p>
 
 ---
 
-## 🔍 Expertise
+## 🔍 Keywords & Specialties
 
-- **Frontend**: React, Next.js, Tailwind CSS, Redux Toolkit
-- **Backend**: Node.js, Express.js, MongoDB, REST APIs
-- **Tools**: Git, Vercel, Netlify, Figma, Postman
-- **Focus**: Scalable apps, UI/UX, performance optimization
+`Full Stack Web Developer` · `MERN Stack Developer` · `React.js Developer` · `Node.js Developer` · `JavaScript Engineer` · `MongoDB Specialist` · `Freelance Web Developer in India` · `Open Source Contributor` · `Responsive UI Designer` · `GitHub Profile Developer` · `Portfolio-Driven Developer` · `Tailwind CSS Expert` · `Next.js Developer` · `Remote Developer (India)` · `Developer Resume` · `Hire MERN Developer`
 
 ---
 
-## 🌟 Current Focus
+## 🧭 Currently Exploring
 
-- Mastering **TypeScript** and **Next.js 14** for cutting-edge development
-- Integrating **headless CMS** (Sanity, Contentful)
-- Elevating **UI/UX** with modern design trends
-- Active **open-source** contributions
-
----
-
-## 📲 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhaveshbhoi07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://developer-bhavesh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0A23?style=flat-square&logo=netlify&logoColor=00C4B4" /></a>
-  <a href="mailto:bhavubhoi806@gmail.com"><img src="https://img.shields.io/badge/Email-FF3D00?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+- 🌱 TypeScript + Next.js advanced patterns
+- 🚀 Headless CMS integrations (e.g. Sanity, Contentful)
+- 🧠 Improving UI/UX practices through real-world projects
+- 🎯 Open-source contributions & collaboration
 
 ---
 
-## 🎉 Fun Fact
+## 📬 Get in Touch
 
-I blend code with creativity, crafting cinematic videos and sleek designs when I'm not building apps. Code fuels my work; creativity sparks my soul. 🎥✨
+- 🔗 LinkedIn: [https://www.linkedin.com/in/bhavesh-bhoi](https://www.linkedin.com/in/bhavesh-bhoi)
+- 💼 Portfolio: [https://developer-bhavesh.netlify.app](https://developer-bhavesh.netlify.app)
+- 📧 Email: [bhavubhoi806@gmail.com](mailto:bhavubhoi806@gmail.com)
 
 ---
 
-> 🚀 _"Code smart, design bold, ship fast."_
+## ⚡ Fun Fact
+
+> I balance code with creativity—editing videos and exploring design tools in my downtime. Coding is my career, but creativity is my craft. 🎥🎨
+
+---
+
+> ✨ _Consistency beats perfection. Stay curious, stay committed, keep shipping!_
+
