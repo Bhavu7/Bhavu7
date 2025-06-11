@@ -87,7 +87,7 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 ## 🌱 Open Source Heatmap
 
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/Bhavu7.svg" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bhavu7&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
