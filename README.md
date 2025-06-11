@@ -104,12 +104,21 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 
 ---
 
-## 🧭 Currently Exploring
+## 🔍 Expertise
 
-- 🌱 TypeScript + Next.js advanced patterns
-- 🚀 Headless CMS integrations (e.g. Sanity, Contentful)
-- 🧠 Improving UI/UX practices through real-world projects
-- 🎯 Open-source contributions & collaboration
+- **Frontend**: React, Next.js, Tailwind CSS, Redux Toolkit
+- **Backend**: Node.js, Express.js, MongoDB, REST APIs
+- **Tools**: Git, Vercel, Netlify, Figma, Postman
+- **Focus**: Scalable apps, UI/UX, performance optimization
+
+---
+
+## 🌟 Current Focus
+
+- Mastering **TypeScript** and **Next.js 14** for cutting-edge development
+- Integrating **headless CMS** (Sanity, Contentful)
+- Elevating **UI/UX** with modern design trends
+- Active **open-source** contributions
 
 ---
 
