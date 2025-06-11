@@ -30,22 +30,21 @@ I specialize in **MERN stack development**, and I’m constantly leveling up my 
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ Tech Stack
 
-**Languages**  
-`JavaScript` `TypeScript` `Python` `C/C++`
-
-**Frontend**  
-`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Redux Toolkit`
-
-**Backend & Databases**  
-`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Postman` `Vercel` `Netlify` `VS Code`
-
-**Design & Creative Tools**  
-`Figma` `Canva` `Adobe Premiere Pro` `Adobe Photoshop`
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
