@@ -84,6 +84,12 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=radical" width="45%" />
 </p>
 
+## 🌱 Open Source Heatmap
+
+<p align="center">
+  <img src="https://github-contributions-api.deno.dev/Bhavu7.svg" />
+</p>
+
 ---
 
 ## 🔍 Keywords & Specialties
