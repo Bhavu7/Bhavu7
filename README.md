@@ -81,7 +81,8 @@ Basic calculator built with clean vanilla JavaScript logic and a user-friendly i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=midnight-purple&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavu7&theme=midnight-purple&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Bhavu7&theme=midnight-purple&hide_border=true" width="45%" />
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=midnight-purple&hide_border=true" width="45%" />
