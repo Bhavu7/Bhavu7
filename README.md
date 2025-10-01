@@ -9,7 +9,7 @@
 
 <p align="center" style="margin-bottom: 30px;">
   <a href="https://developer-bhavesh.netlify.app" target="_blank" style="text-decoration:none;margin:0 8px;">
-    <img src="https://img.shields.io/badge/🌐-Portfolio-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=0efaff" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank" style="text-decoration:none;margin:0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bhavu7.github.io/BhavuVerse/" target="_blank" style="text-decoration:none;margin:0 8px;">
-    <img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree" alt="Linktree" />
+    <img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
@@ -29,8 +29,8 @@
 - Passionate Full Stack Developer crafting fast & accessible web apps  
 - Expert in **JavaScript**, **React**, **Next.js**, **Node.js**, **MongoDB**  
 - Completed **BSc CA & IT** with a 7.67 GPA from **Shri DN Institute of Computer Applications**  
-- Currently pursuing **MSc IT** from **Sardar Patel Institute of Applied Science**
-- Also enrolled in **MERN Stack** program at **Red & White Multimedia Institute**
+- Currently pursuing **MSc IT** from **Sardar Patel Institute of Applied Science**  
+- Also enrolled in **MERN Stack** program at **Red & White Multimedia Institute**  
 - Focus on scalable, maintainable, user-centric MERN solutions  
 - Continually learning **TypeScript**, **Firebase**, **Supabase**, **Tailwind CSS**
 
@@ -45,8 +45,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img alt="AOS" src="https://img.shields.io/badge/AOS-1D1D1D?style=flat&logo=generic&logoColor=white" />
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=gsap&logoColor=white" />
+  <img alt="AOS" src="https://img.shields.io/badge/AOS-1D1D1D?style=flat&logo=read-the-docs&logoColor=white" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greenkeeper&logoColor=white" />
   <img alt="Motion" src="https://img.shields.io/badge/Motion-000000?style=flat&logo=framer&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
@@ -145,7 +145,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhaveshbhoi07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://developer-bhavesh.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://developer-bhavesh.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=0efaff" alt="Portfolio" /></a>
   <a href="mailto:bhavubhoi806@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
