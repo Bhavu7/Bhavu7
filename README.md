@@ -1,14 +1,25 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=4BCFFA&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Bhavesh+Bhoi!;MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Specialist;Let's+Build+Great+Web+Experiences!" alt="Typing SVG" style="filter: drop-shadow(1px 1px 1px #000)" />
+<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4BCFFA&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Bhavesh+Bhoi!;MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Specialist;Let's+Build+Great+Web+Experiences!" 
+       alt="Typing SVG" style="filter: drop-shadow(2px 2px 4px #000); border-radius: 12px;" />
 </p>
 
-<h1 align="center" style="color:#4BCFFA; margin-top:0;">🚀 MERN Stack Specialist | React & Node.js Enthusiast</h1>
+<h1 align="center" style="color:#4BCFFA; margin-top: 0; margin-bottom: 15px; font-weight: 900; letter-spacing: 1.2px;">
+  🚀 MERN Stack Specialist | React & Node.js Enthusiast
+</h1>
 
-<p align="center">
-  <a href="https://developer-bhavesh.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🌐Portfolio-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhavubhoi806@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://bhavu7.github.io/BhavuVerse/" target="_blank"><img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
+<p align="center" style="margin-bottom: 30px;">
+  <a href="https://developer-bhavesh.netlify.app" target="_blank" style="text-decoration:none;margin:0 8px;">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-0e76a8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank" style="text-decoration:none;margin:0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhavubhoi806@gmail.com" target="_blank" style="text-decoration:none;margin:0 8px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://bhavu7.github.io/BhavuVerse/" target="_blank" style="text-decoration:none;margin:0 8px;">
+    <img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree" alt="Linktree" />
+  </a>
 </p>
 
 ---
