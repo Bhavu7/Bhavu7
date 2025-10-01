@@ -28,12 +28,49 @@
 ## ⚙️ Tech Stack
 
 <p align="center" style="margin-top:0;">
- <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
- <img alt="TS" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
- <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
- <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
- <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <!-- Frontend -->
+  <strong>Frontend:</strong>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img alt="AOS" src="https://img.shields.io/badge/AOS-1D1D1D?style=flat&logo=generic&logoColor=white" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=gsap&logoColor=white" />
+  <img alt="Motion" src="https://img.shields.io/badge/Motion-000000?style=flat&logo=framer&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+</p>
+
+<p align="center" style="margin-top:5px;">
+  <!-- Backend -->
+  <strong>Backend:</strong>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+</p>
+
+<p align="center" style="margin-top:5px;">
+  <!-- Databases -->
+  <strong>Databases:</strong>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center" style="margin-top:5px;">
+  <!-- Languages -->
+  <strong>Languages:</strong>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
