@@ -37,19 +37,13 @@
 
 ## 📌 Featured Projects
 
-### 🌀 Weather App  
-- Clean UI, real-time weather via OpenWeather API  
-- [Live Demo](https://bhavu7.github.io/Weather-Dashboard/)
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| 🌀 Weather App | A clean, minimalist app with real-time weather data from OpenWeather API and intuitive UI/UX | HTML, CSS, JavaScript | [Demo](https://bhavu7.github.io/Weather-Dashboard/) |
+| 📝 To-Do List App | Elegant task manager with LocalStorage support, interactive CRUD, minimal UI | JavaScript, HTML, CSS | [Code](https://github.com/Bhavu7/TODO) |
+| 🧮 Calculator App (OmniCalc) | Basic calculator with clean vanilla JS logic and user-friendly interface | JavaScript, HTML, CSS | [Demo](https://bhavu7.github.io/OmniCalc/) |
 
-### 📝 To-Do List  
-- Simple CRUD with LocalStorage persistence  
-- [Source Code](https://github.com/Bhavu7/TODO)
-
-### 🧮 OmniCalc Calculator  
-- Basic arithmetic with user-friendly interface  
-- [Live Demo](https://bhavu7.github.io/OmniCalc/)
-
-> More projects on my [portfolio](https://developer-bhavesh.netlify.app)
+> 🔗 Explore all projects: [Portfolio Site](https://developer-bhavesh.netlify.app)
 
 ---
 
