@@ -17,9 +17,9 @@
 
 - Passionate Full Stack Developer crafting fast & accessible web apps  
 - Expert in **JavaScript**, **React**, **Next.js**, **Node.js**, **MongoDB**  
-- Completed **Bachelor of Science in Computer Applications and Information Technology** with a 7.67 GPA from Shri DN Institute of Computer Applications  
-- Currently pursuing **Master of Science in Information Technology** from Sardar Patel Institute of Applied Science  
-- Also enrolled in **MERN Stack** program at Red & White Multimedia Institute  
+- Completed **BSc CA & IT** with a 7.67 GPA from **Shri DN Institute of Computer Applications**  
+- Currently pursuing **MSc IT** from **Sardar Patel Institute of Applied Science**
+- Also enrolled in **MERN Stack** program at **Red & White Multimedia Institute**
 - Focus on scalable, maintainable, user-centric MERN solutions  
 - Continually learning **TypeScript**, **Firebase**, **Supabase**, **Tailwind CSS**
 
