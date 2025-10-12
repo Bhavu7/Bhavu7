@@ -17,7 +17,7 @@
   <a href="mailto:bhavubhoi806@gmail.com" target="_blank" style="text-decoration:none;margin:0 8px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://bhavu7.github.io/BhavuVerse/" target="_blank" style="text-decoration:none;margin:0 8px;">
+  <a href="https://bhavu-verse.vercel.app/" target="_blank" style="text-decoration:none;margin:0 8px;">
     <img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
