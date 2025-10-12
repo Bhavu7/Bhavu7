@@ -11,7 +11,7 @@
   <a href="https://developer-bhavesh.netlify.app" target="_blank" style="text-decoration:none;margin:0 8px;">
     <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=0efaff" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/bhaveshbhoi07/" target="_blank" style="text-decoration:none;margin:0 8px;">
+  <a href="https://www.linkedin.com/in/bhavesh-bhoi/" target="_blank" style="text-decoration:none;margin:0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bhavubhoi806@gmail.com" target="_blank" style="text-decoration:none;margin:0 8px;">
