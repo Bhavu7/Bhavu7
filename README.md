@@ -91,7 +91,7 @@
 | Project | Description | Tech Stack | Link |
 | --- | --- | --- | --- |
 | 🌀 Weather App | A clean, minimalist app with real-time weather data from OpenWeather API and intuitive UI/UX | HTML, CSS, JavaScript | [Demo](https://bhavu7.github.io/Weather-Dashboard/) |
-| 📝 To-Do List App | Elegant task manager with LocalStorage support, interactive CRUD, minimal UI | JavaScript, HTML, CSS | [Code](https://github.com/Bhavu7/TODO) |
+| 📝 To-Do List App | Elegant task manager with LocalStorage support, interactive CRUD, minimal UI | JavaScript, HTML, CSS | [Code](https://note-stream-pi.vercel.app/) |
 | 🧮 Calculator App (OmniCalc) | Basic calculator with clean vanilla JS logic and user-friendly interface | JavaScript, HTML, CSS | [Demo](https://bhavu7.github.io/OmniCalc/) |
 
 > 🔗 Explore all projects: [Portfolio Site](https://developer-bhavesh.netlify.app)
