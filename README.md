@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 - Passionate Full Stack Developer crafting fast & accessible web apps  
-- Expert in **JavaScript**, **React**, **Next.js**, **Node.js**, **MongoDB**  
+- Expert in **JavaScript**, **Angular**, **React**, **Node.js**, **MongoDB**  
 - Completed **BSc CA & IT** with a 7.67 GPA from **Shri DN Institute of Computer Applications**  
 - Currently pursuing **MSc IT** from **Sardar Patel Institute of Applied Science**  
 - Also enrolled in **MERN Stack** program at **Red & White Multimedia Institute**  
