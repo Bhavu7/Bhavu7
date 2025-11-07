@@ -33,7 +33,7 @@
 ✨ Community-driven: open for collaboration and contributions!
 
 ### Education
-- **BSc CA & IT** · Shri DN Institute of Computer Applications (GPA 7.67)
+- **BSc CA & IT** · Shri DN Institute of Computer Applications
 - **MSc IT** · Sardar Patel Institute of Applied Science
 - **MERN Stack** · Red & White Multimedia Institute
 
