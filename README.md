@@ -1,7 +1,7 @@
 <!-- https://github.com/Bhavu7/Bhavu7/blob/main/bhavesh-profile.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4BCFFA&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Bhavesh+Bhoi!;MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Specialist;Let's+Build+Great+Web+Experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B+I'm+Bhavesh+Bhoi!;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+scalable+web+apps!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -27,31 +27,24 @@
 
 ## 👨‍💻 About Me
 
-✨ Passionate Full Stack Developer crafting fast & accessible web apps  
-✨ MERN, React, Node.js, and MongoDB specialist  
-✨ Always experimenting with TypeScript, Firebase, Supabase, and TailwindCSS  
-✨ Community-driven: open for collaboration and contributions!
+- 🔥 Building fast, scalable’hôpital, and beautiful web applications  
+- 🚀 MERN Stack Specialist (MongoDB, Express, React, Node.js)  
+- 🌱 Currently mastering **TypeScript**, **Next.js 14 App Router**, **Prisma ORM**  
+- ⚡ Love modern tools: Tailwind CSS, Framer Motion, Clerk Auth, Supabase  
+- 👯 Open to collaboration & freelance projects!
 
 ### Education
 - **BSc CA & IT** · Shri DN Institute of Computer Applications
 - **MSc IT** · Sardar Patel Institute of Applied Science
-- **Full Stack** · Red & White Multimedia Institute
+- **Full Stack Web Development** · Red & White Multimedia Institute
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend:**  
-HTML5 · CSS3 · Bootstrap · Tailwind CSS · React · Redux · JavaScript · Angular
-
-**Backend:**  
-Node.js · Express.js · TypeScript · Next.js · Python · Java · PHP
-
-**Databases:**  
-MSSQL · MySQL · SQLite · MongoDB
-
-**Languages:**  
-JavaScript · Python · C · C++
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,redux,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite&perline=11&theme=dark" />
+</p>
 
 ---
 
@@ -112,13 +105,9 @@ JavaScript · Python · C · C++
 
 ---
 
-## 📬 Get in Touch
+## 📫 If you need a fast, reliable, scalable web app…
+DM me on LinkedIn — I reply fast.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhaveshbhoi07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://developer-bhavesh.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=0efaff" alt="Portfolio" /></a>
-  <a href="mailto:bhavubhoi806@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ---
 
