@@ -50,13 +50,13 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|-----------|
-| 🌀 **ClimeCast – Weather App** | Real-time weather with refined UI & responsive design | HTML, CSS, JavaScript, OpenWeather API | 🔗 https://climecast-weather.netlify.app |
-| 📝 **Note Stream – To-Do App** | LocalStorage-based task manager with sleek UX | JavaScript, HTML, CSS | 🔗 https://note-stream-pi.vercel.app |
-| 🧮 **OmniCalc – Calculator** | Lightweight vanilla JS calculator | JavaScript, HTML, CSS | 🔗 https://omnicalc.vercel.app |
-| 🏆 **Portfolio & Profile Showcase** | Combines all my public work in one place | Markdown, GitHub | 🔗 https://github.com/Bhavu7/Bhavu7 |
+| 🌀 **ClimeCast – Weather App** | Real-time weather with refined UI & responsive design | HTML, CSS, JavaScript, OpenWeather API | 🔗 [Live Demo](https://climecast-weather.netlify.app) |
+| 📝 **Note Stream – To-Do App** | LocalStorage-based task manager with sleek UX | JavaScript, HTML, CSS | 🔗 [Live Demo](https://note-stream-pi.vercel.app) |
+| 🧮 **OmniCalc – Calculator** | Lightweight vanilla JS calculator | JavaScript, HTML, CSS | 🔗 [Live Demo](https://omnicalc.vercel.app) |
+| 🏆 **Portfolio & Profile Showcase** | Combines all my public work in one place | Markdown, GitHub | 🔗 [Repository](https://github.com/Bhavu7/Bhavu7) |
 
 > More builds & open-source work on 👇  
-🔗 **Portfolio:** https://developer-bhavesh.netlify.app
+🔗 **[Portfolio](https://developer-bhavesh.netlify.app)**
 
 ---
 
