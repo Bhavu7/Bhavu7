@@ -80,9 +80,9 @@
 
 ---
 
-## 🌐 AI-Generated Skill Word Cloud
+## 🌐 AI-Generated Skills Word Cloud
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=200&color=0E1117&text=React%20Next.js%20Node%20Express%20MongoDB%20TypeScript%20Tailwind%20Prisma%20Supabase%20REST%20API%20Auth&fontColor=00E5FF&fontSize=30&animation=fadeIn" />
+  <img src="https://api.multiavatar.tech/skills-cloud?data=React,Next.js,Node.js,Express,MongoDB,TypeScript,Tailwind,Prisma,Supabase,REST%20API,UI%2FUX,Full%20Stack&theme=cyberpunk&fontColor=00E5FF&size=700x350" />
 </p>
 
 ---
