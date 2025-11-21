@@ -1,14 +1,19 @@
 name: GitHub Activity
+
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+  workflow_run:
 
 jobs:
-  activity:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: JamesIves/github-activity-readme@latest
+      - uses: actions/checkout@v3
+      - uses: JamesIves/github-activity-readme@v0.3.0
         with:
+          RECENT_ACTIVITY_FILE: "RECENT_ACTIVITY.md"
+          COMMIT_MSG: "⚡ Update GitHub activity"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

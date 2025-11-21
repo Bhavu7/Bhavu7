@@ -1,4 +1,5 @@
 name: Generate Snake Animation
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -8,11 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Bhavu7
           outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
