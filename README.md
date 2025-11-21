@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey+there!+I&#39;m+Bhavesh+Bhoi;MERN+Stack+Developer+%7C+Full+Stack+Engineer;I+build+fast,+modern,+scalable+web+apps;Turning+ideas+into+production-ready+reality"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey+there!+I&#39;m+Bhavesh;MERN+Stack+Developer+%7C+Full+Stack+Engineer;I+build+fast,+modern,+scalable+web+apps;Turning+ideas+into+production-ready+reality"
     alt="Typing SVG"
   />
 </p>
