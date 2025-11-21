@@ -80,13 +80,6 @@
 
 ---
 
-## 🌐 AI-Generated Skills Word Cloud
-<p align="center">
-  <img src="https://api.multiavatar.tech/skills-cloud?data=React,Next.js,Node.js,Express,MongoDB,TypeScript,Tailwind,Prisma,Supabase,REST%20API,UI%2FUX,Full%20Stack&theme=cyberpunk&fontColor=00E5FF&size=700x350" />
-</p>
-
----
-
 ## 🐍 Animated Contributions Snake
 <p align="center">
   <img src="https://github.com/Bhavu7/Bhavu7/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
