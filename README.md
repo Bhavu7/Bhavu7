@@ -77,6 +77,17 @@
 
 ---
 
+## 📈 Git Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavu7&theme=react-dark&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph" 
+  />
+</p>
+
+---
+
 ## 📌 Latest GitHub Activity (auto-updated)
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](undefined) in [Bhavu7/Hirings](https://github.com/Bhavu7/Hirings)
