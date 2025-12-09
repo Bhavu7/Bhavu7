@@ -88,6 +88,17 @@
 
 ---
 
+## 🏆 GitHub Highlights
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Bhavu7&theme=flat&no-frame=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
 ## 📌 Latest GitHub Activity (auto-updated)
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](undefined) in [Bhavu7/Hirings](https://github.com/Bhavu7/Hirings)
