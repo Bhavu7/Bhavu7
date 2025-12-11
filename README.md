@@ -135,7 +135,18 @@
 
 ---
 
-## 📬 Contact & Profiles (Primary first)
+## 🤝 Collaboration
+I help build:
+- Scalable MERN apps
+- Production React & Next.js frontends
+- REST/GraphQL backends & auth
+- High-performance UI and front-end optimization
+
+If you have a project or role: let’s talk.
+
+---
+
+## 📬 Contact & Profiles
 - **Bhavu-Verse (main hub):** https://bhavu-verse.vercel.app/  
 - Portfolio: https://developer-bhavesh.netlify.app/  
 - GitHub: https://github.com/Bhavu7  
@@ -145,6 +156,13 @@
 - Vercel projects: https://vercel.com/bhavesh-bhois-projects
 
 Email: `bhavubhoi806@gmail.com`
+
+## ⚡ Tip
+Pin the following repos on your GitHub profile:
+- `Bhavu7` (profile/portfolio repo)
+- Portfolio repo (netlify)
+- A showcase repo (ClimeCast or Note Stream)
+- Node API Boilerplate / React components library (if public)
 
 ---
 
