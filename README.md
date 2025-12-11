@@ -135,11 +135,16 @@
 
 ---
 
-## 📬 Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavesh-bhoi"><img src="https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:bhavubhoi806@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+## 📬 Contact & Profiles (Primary first)
+- **Bhavu-Verse (main hub):** https://bhavu-verse.vercel.app/  
+- Portfolio: https://developer-bhavesh.netlify.app/  
+- GitHub: https://github.com/Bhavu7  
+- LinkedIn: https://www.linkedin.com/in/bhavesh-bhoi/  
+- CodePen: https://codepen.io/bhavesh-bhoi  
+- Instagram: https://www.instagram.com/developer_bhavesh/  
+- Vercel projects: https://vercel.com/bhavesh-bhois-projects
+
+Email: `bhavubhoi806@gmail.com`
 
 ---
 
