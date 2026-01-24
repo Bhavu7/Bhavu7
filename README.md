@@ -60,7 +60,7 @@
 | 🏆 **Portfolio & Profile Showcase** | Combines all my public work in one place | Markdown, GitHub | 🔗 [Repository](https://github.com/Bhavu7/Bhavu7) |
 
 > More builds & open-source work on 👇  
-🔗 **[Portfolio](https://developer-bhavesh.netlify.app)**
+🔗 **[Portfolio](https://bhaveshbhoi.netlify.app)**
 
 ---
 
