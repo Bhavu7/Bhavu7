@@ -101,7 +101,7 @@
 
 ## 📌 Latest GitHub Activity (auto-updated)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [Bhavu7/Hirings](https://github.com/Bhavu7/Hirings)
+1. 🎉 Merged PR [#1](https://github.com/Bhavu7/Componix-UI/pull/1) in [Bhavu7/Componix-UI](https://github.com/Bhavu7/Componix-UI)
 <!--END_SECTION:activity-->
 
 ---
