@@ -64,12 +64,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhavu7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Bhavu7&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhavesh-bhoi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=bhavesh-bhoi&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhavesh-bhoi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
@@ -77,7 +77,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavu7&theme=tokyo-night&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-bhoi&theme=tokyo-night&hide_border=true&area=true" 
   />
 </p>
 
@@ -85,7 +85,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Bhavu7/Bhavu7/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/bhavesh-bhoi/bhavesh-bhoi/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
