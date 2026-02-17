@@ -10,7 +10,7 @@
 </p>
 
 
-<h1 align="center">Full Stack Developer • Angular • React • Node.js • TypeScript</h1>
+<h1 align="center">Full Stack Developer • Angular & React • Node.js • TypeScript</h1>
 
 <p align="center">
   <a href="https://bhaveshbhoi.netlify.app">
