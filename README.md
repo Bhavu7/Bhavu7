@@ -48,9 +48,10 @@
 | Project | Description | Tech Stack | Live Demo |
 |----------|-------------|------------|-----------|
 | 🎮 **Zentry Website Clone** | Pixel-perfect clone with advanced animations, smooth transitions, and modern UI architecture | React, Tailwind CSS, Framer Motion | 🔗 [Live](https://zentry-io.vercel.app/) |
-| 🌀 **ClimeCast – Weather App** | Real-time weather with refined UI & responsive design | HTML, CSS, JavaScript, OpenWeather API | 🔗 [Live](https://climecast-weather.netlify.app) |
-| 📝 **Note Stream – To-Do App** | Task manager with clean UX & LocalStorage persistence | JavaScript, HTML, CSS | 🔗 [Live](https://note-stream-pi.vercel.app) |
-| 🧮 **OmniCalc – Calculator** | Lightweight and responsive JS calculator | JavaScript, HTML, CSS | 🔗 [Live](https://omnicalc.vercel.app) |
+| 🌀 **ClimeCast – Weather App** | Real-time weather with refined UI & responsive design | HTML5, CSS3, JavaScript, OpenWeather API | 🔗 [Live](https://climecast-weather.netlify.app) |
+| 📝 **Note Stream – To-Do App** | Task manager with clean UX & LocalStorage persistence | HTML5, CSS3, JavaScript, Supabase | 🔗 [Live](https://note-stream-pi.vercel.app) |
+| 🧮 **OmniCalc – Calculator** | Lightweight and responsive JS calculator | HTML5, CSS3, JavaScript | 🔗 [Live](https://omnicalc.vercel.app) |
+
 ---
 
 ## 📊 GitHub Analytics
