@@ -9,7 +9,7 @@
   />
 </p>
 
-<h1 align="center">Full Stack MERN Developer • Scalable & Production-Ready Web Apps</h1>
+<h1 align="center">Full Stack Developer • React • Next.js • Angular • Node</h1>
 
 <p align="center">
   <a href="https://bhaveshbhoi.netlify.app">
@@ -45,24 +45,12 @@
 
 ## 🔥 Featured Projects
 
-### 🌀 ClimeCast – Weather App  
-Real-time weather app with refined UI and responsive design.  
-**HTML • CSS • JavaScript • API Integration**  
-🔗 https://climecast-weather.netlify.app  
-
----
-
-### 📝 Note Stream – Task Manager  
-Clean UI task manager using local storage.  
-**JavaScript • DOM • State Handling**  
-🔗 https://note-stream-pi.vercel.app  
-
----
-
-### 🧮 OmniCalc – Lightweight Calculator  
-Minimal and fast vanilla JS calculator.  
-**JavaScript • Responsive Design**  
-🔗 https://omnicalc.vercel.app  
+| Project | Description | Tech Stack | Live Demo |
+|----------|-------------|------------|-----------|
+| 🌀 **ClimeCast – Weather App** | Real-time weather with refined UI & responsive design | HTML, CSS, JavaScript, OpenWeather API | 🔗 [Live Demo](https://climecast-weather.netlify.app) |
+| 📝 **Note Stream – To-Do App** | Task manager with clean UX & LocalStorage persistence | JavaScript, HTML, CSS | 🔗 [Live Demo](https://note-stream-pi.vercel.app) |
+| 🧮 **OmniCalc – Calculator** | Lightweight and responsive JS calculator | JavaScript, HTML, CSS | 🔗 [Live Demo](https://omnicalc.vercel.app) |
+| 🏆 **Portfolio & Profile Showcase** | Central hub for all projects and professional presence | Markdown, GitHub | 🔗 [Repository](https://github.com/Bhavu7/Bhavu7) |
 
 ---
 
