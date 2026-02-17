@@ -9,7 +9,7 @@
   />
 </p>
 
-<h1 align="center">Full Stack Developer • React • Next.js • Angular • Node</h1>
+<h1 align="center">Full Stack Developer • Angular • React • Node.js • TypeScript</h1>
 
 <p align="center">
   <a href="https://bhaveshbhoi.netlify.app">
@@ -27,11 +27,19 @@
 
 ## 🚀 About Me
 
-- 💻 Specialized in **MERN Stack**
-- ⚡ Focused on **scalable architecture & performance**
-- 🎯 Strong in **React, Next.js, TypeScript**
-- 🧠 Interested in **clean code, DX & production systems**
-- 🤝 Open to impactful collaborations
+- 💼 **5-month Internship Experience** building **production-grade web applications**
+- 💻 Worked extensively with **Angular, Node.js, Express & TypeScript** in real-world projects
+- ⚡ Focused on **scalable architecture**, **REST API design**, and backend integration
+- 🎯 Strong in modern frontend development using **React & Angular**
+- 🧠 Passionate about **performance optimization**, **clean code**, and **production systems**
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer Intern** - **Keryar**
+Built and maintained production features using Angular, Node.js, Express, and TypeScript.  
+Worked on API integration, backend logic, and responsive UI development using Bootstrap.
 
 ---
 
