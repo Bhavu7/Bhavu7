@@ -1,3 +1,6 @@
+<!-- Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00E5FF,100:7F00FF&section=header"/>
+
 <!-- Profile Banner -->
 <p align="center">
   <img
