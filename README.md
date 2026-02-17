@@ -65,13 +65,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&bg_color=0d1117&icon_color=00E5FF&title_color=7F00FF&text_color=ffffff&hide_border=true&cache_seconds=1800" width="45%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhavu7&show_icons=true&bg_color=0d1117&icon_color=00E5FF&title_color=7F00FF&text_color=ffffff&hide_border=true" width="45%" />
   
-  <img src="https://streak-stats.demolab.com?user=Bhavu7&background=0d1117&ring=7F00FF&fire=00E5FF&currStreakLabel=ffffff&hide_border=true&cache_seconds=1800" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Bhavu7&background=0d1117&ring=7F00FF&fire=00E5FF&currStreakLabel=ffffff&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&bg_color=0d1117&title_color=7F00FF&text_color=ffffff&hide_border=true&cache_seconds=1800" width="45%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&bg_color=0d1117&title_color=7F00FF&text_color=ffffff&hide_border=true" width="45%" />
 </p>
 
 ---
