@@ -169,3 +169,5 @@ Email: `bhavubhoi806@gmail.com`
 
 <p align="center"><strong>✨ Consistency beats perfection — keep shipping, keep evolving.</strong></p>
 
+<!-- Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,100:00E5FF&section=footer"/>
