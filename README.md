@@ -9,7 +9,7 @@
   />
 </p>
 
-<h1 align="center">⚡ Full Stack Developer • React • Node • Next.js</h1>
+<h1 align="center">Full Stack MERN Developer • Scalable & Production-Ready Web Apps</h1>
 
 <p align="center">
   <a href="https://bhaveshbhoi.netlify.app">
