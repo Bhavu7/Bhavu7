@@ -99,6 +99,8 @@
 ## 📌 Latest GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Bhavu7/Componix-UI/pull/1) in [Bhavu7/Componix-UI](https://github.com/Bhavu7/Componix-UI)
+2. 💪 Opened PR [#1](https://github.com/Bhavu7/Componix-UI/pull/1) in [Bhavu7/Componix-UI](https://github.com/Bhavu7/Componix-UI)
 <!--END_SECTION:activity-->
 
 ---
