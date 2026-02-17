@@ -19,7 +19,9 @@
   <a href="https://bhavu-verse.vercel.app/"><img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ### 🔥 Live Profile Stats
 <p align="center">
@@ -28,7 +30,9 @@
   <img src="https://komarev.com/ghpvc/?username=Bhavu7&style=for-the-badge&color=green">
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🔥 About Me
 > Engineer by logic, Artist by instinct — I craft web apps that are fast, scalable, and visually sleek.
@@ -43,7 +47,9 @@
 - **MSc IT** — Sardar Patel Institute of Applied Science
 - **Full Stack Web Development** — Red & White Multimedia Institute
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -51,10 +57,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,redux,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite,jest&perline=11&theme=dark">
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:7F00FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -69,7 +73,9 @@
 > More builds & open-source work on 👇  
 🔗 **[Portfolio](https://bhaveshbhoi.netlify.app)**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -82,7 +88,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&icon_color=00E5FF&title_color=7F00FF&text_color=ffffff" width="45%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 📈 Git Contribution Graph
 
@@ -93,7 +101,9 @@
   />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🏆 GitHub Highlights
 
@@ -104,21 +114,27 @@
   />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 📌 Latest GitHub Activity (auto-updated)
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Bhavu7/Componix-UI/pull/1) in [Bhavu7/Componix-UI](https://github.com/Bhavu7/Componix-UI)
 <!--END_SECTION:activity-->
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🐍 Animated Contributions Snake
 <p align="center">
   <img src="https://github.com/Bhavu7/Bhavu7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🌱 Current Focus & Roadmap
 
@@ -130,7 +146,9 @@
 | Contributing to Open Source | 📌 Ongoing |
 | SaaS / Side Hustle Projects | 🌱 Exploring |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🧰 What I Can Help You With
 - ⚡ Building scalable full-stack apps
@@ -140,7 +158,9 @@
 - 🖥 Website performance optimization
 - 💼 Freelance & remote collaboration
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 🤝 Collaboration
 I help build:
@@ -151,7 +171,9 @@ I help build:
 
 If you have a project or role: let’s talk.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## 📬 Contact & Profiles
 - **Bhavu-Verse (main hub):** https://bhavu-verse.vercel.app/  
@@ -164,12 +186,16 @@ If you have a project or role: let’s talk.
 
 Email: `bhavubhoi806@gmail.com`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 ## ⚡ Fun Fact
 > I code like an engineer, design like a creator — tech & creativity run on the same fuel.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+</p>
 
 <p align="center"><strong>✨ Consistency beats perfection — keep shipping, keep evolving.</strong></p>
 
