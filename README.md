@@ -1,7 +1,7 @@
-<!-- Animation -->
+<!-- Top Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00E5FF,100:7F00FF&section=header"/>
 
-<!-- Profile Banner -->
+<!-- Typing Intro -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=950&height=70&lines=Hey+there!+I'm+Bhavesh;Full+Stack+MERN+Developer;Building+scalable+modern+web+apps;Shipping+clean+production+code"
@@ -9,197 +9,134 @@
   />
 </p>
 
-
-<h1 align="center">⚡ MERN Stack Specialist • React & Node.js Enthusiast</h1>
-
-<p align="center">
-  <a href="https://developer-bhavesh.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00E5FF"></a>
-  <a href="https://www.linkedin.com/in/bhavesh-bhoi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:bhavubhoi806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://bhavu-verse.vercel.app/"><img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree&logoColor=white"></a>
-</p>
+<h1 align="center">⚡ MERN Stack Specialist • React & Node.js Engineer</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+  <a href="https://bhaveshbhoi.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00E5FF">
+  </a>
+  <a href="https://www.linkedin.com/in/bhavesh-bhoi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:bhavubhoi806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://bhavu-verse.vercel.app/">
+    <img src="https://img.shields.io/badge/All%20Links-39e09b?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
 </p>
 
-### 🔥 Live Profile Stats
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Bhavu7?label=Followers&style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/stars/Bhavu7?label=Stars&style=for-the-badge&color=yellow">
-  <img src="https://komarev.com/ghpvc/?username=Bhavu7&style=for-the-badge&color=green">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
 ## 🔥 About Me
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&text=Engineer%20by%20Logic%20%E2%80%A2%20Artist%20by%20Instinct&fontSize=22&color=0:7F00FF,100:00E5FF&fontColor=ffffff"/>
 </p>
 
 - MERN Stack Developer (MongoDB, Express, React, Node.js)
-- Building apps that balance performance, DX, and UI polish
-- Love modern tools: **TypeScript, Next.js, Prisma, Tailwind, Supabase, Clerk Auth**
-- Open to collaboration, open-source, and impactful projects
+- Focused on scalable architecture & clean UI
+- Passionate about TypeScript, Next.js, Prisma & modern DX
+- Open to impactful collaborations & open-source work
 
-### 🎓 Education
-- **BSc CA & IT** — Shri DN Institute of Computer Applications
-- **MSc IT** — Sardar Patel Institute of Applied Science
-- **Full Stack Web Development** — Red & White Multimedia Institute
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,redux,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite,jest&perline=11&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite,jest&perline=10&theme=dark">
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
 </p>
-
-## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Live Demo |
-|--------|-------------|------------|-----------|
+|----------|-------------|------------|-----------|
 | 🌀 **ClimeCast – Weather App** | Real-time weather with refined UI & responsive design | HTML, CSS, JavaScript, OpenWeather API | 🔗 [Live Demo](https://climecast-weather.netlify.app) |
-| 📝 **Note Stream – To-Do App** | LocalStorage-based task manager with sleek UX | JavaScript, HTML, CSS | 🔗 [Live Demo](https://note-stream-pi.vercel.app) |
-| 🧮 **OmniCalc – Calculator** | Lightweight vanilla JS calculator | JavaScript, HTML, CSS | 🔗 [Live Demo](https://omnicalc.vercel.app) |
-| 🏆 **Portfolio & Profile Showcase** | Combines all my public work in one place | Markdown, GitHub | 🔗 [Repository](https://github.com/Bhavu7/Bhavu7) |
+| 📝 **Note Stream – To-Do App** | Task manager with clean UX & LocalStorage persistence | JavaScript, HTML, CSS | 🔗 [Live Demo](https://note-stream-pi.vercel.app) |
+| 🧮 **OmniCalc – Calculator** | Lightweight and responsive JS calculator | JavaScript, HTML, CSS | 🔗 [Live Demo](https://omnicalc.vercel.app) |
+| 🏆 **Portfolio & Profile Showcase** | Central hub for all projects and professional presence | Markdown, GitHub | 🔗 [Repository](https://github.com/Bhavu7/Bhavu7) |
 
-> More builds & open-source work on 👇  
-🔗 **[Portfolio](https://bhaveshbhoi.netlify.app)**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=midnight-purple&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&icon_color=00E5FF&title_color=7F00FF&text_color=ffffff" width="45%" />
   <img src="https://streak-stats.demolab.com?user=Bhavu7&theme=midnight-purple&hide_border=true&background=0d1117&ring=7F00FF&fire=00E5FF&currStreakLabel=ffffff" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavu7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&icon_color=00E5FF&title_color=7F00FF&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=midnight-purple&hide_border=true" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
-## 📈 Git Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavu7&theme=react-dark&hide_border=true&area=true" 
-    alt="GitHub Contribution Graph" 
   />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
 ## 🏆 GitHub Highlights
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Bhavu7&theme=flat&no-frame=true&margin-w=15"
-    alt="GitHub Trophies"
   />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
-## 📌 Latest GitHub Activity (auto-updated)
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bhavu7/Componix-UI/pull/1) in [Bhavu7/Componix-UI](https://github.com/Bhavu7/Componix-UI)
-<!--END_SECTION:activity-->
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
+  <img src="https://github.com/Bhavu7/Bhavu7/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🐍 Animated Contributions Snake
-<p align="center">
-  <img src="https://github.com/Bhavu7/Bhavu7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+## 🌱 Current Focus
 
-## 🌱 Current Focus & Roadmap
+- 🚀 Next.js 14 & Server Actions
+- 🔐 Auth systems & dashboards
+- 🧠 Production-level architecture
+- 📌 Open-source contributions
+- 💡 SaaS side projects
 
-| Area | Status |
-|------|--------|
-| TypeScript & Strong Typing | 🚀 Active |
-| Next.js 14 + Server Actions | 🚀 Active |
-| Building Production-grade UI/UX | 🔥 Deep Dive |
-| Contributing to Open Source | 📌 Ongoing |
-| SaaS / Side Hustle Projects | 🌱 Exploring |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
-
-## 🧰 What I Can Help You With
-- ⚡ Building scalable full-stack apps
-- 🎯 React / Next.js frontend development
-- 🔐 Authentication & dashboards
-- 🗃 MongoDB database design
-- 🖥 Website performance optimization
-- 💼 Freelance & remote collaboration
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
 ## 🤝 Collaboration
+
 I help build:
-- Scalable MERN apps
-- Production React & Next.js frontends
-- REST/GraphQL backends & auth
-- High-performance UI and front-end optimization
+- Scalable MERN applications  
+- Production-grade React / Next.js frontends  
+- REST APIs & authentication systems  
+- Performance-optimized UI  
 
-If you have a project or role: let’s talk.
+Let’s build something impactful.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
-## 📬 Contact & Profiles
-- **Bhavu-Verse (main hub):** https://bhavu-verse.vercel.app/  
-- Portfolio: https://bhaveshbhoi.netlify.app/  
-- GitHub: https://github.com/Bhavu7  
-- LinkedIn: https://www.linkedin.com/in/bhavesh-bhoi/  
-- CodePen: https://codepen.io/bhavesh-bhoi  
-- Instagram: https://www.instagram.com/bhaveshbhoi.web/  
-- Vercel projects: https://vercel.com/bhavesh-bhois-projects
+## 📬 Contact
+
+- 🌐 Portfolio: https://bhaveshbhoi.netlify.app  
+- 🔗 All Links: https://bhavu-verse.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/bhavesh-bhoi  
+- 🐙 GitHub: https://github.com/Bhavu7  
 
 Email: `bhavubhoi806@gmail.com`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
+---
 
-## ⚡ Fun Fact
-> I code like an engineer, design like a creator — tech & creativity run on the same fuel.
+<p align="center"><strong>✨ Consistency beats perfection — keep shipping.</strong></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=🚀%20Featured%20Projects&fontSize=25&color=0:00E5FF,100:7F00FF&fontColor=ffffff"/>
-</p>
-
-<p align="center"><strong>✨ Consistency beats perfection — keep shipping, keep evolving.</strong></p>
-
-<!-- Animation -->
+<!-- Bottom Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,100:00E5FF&section=footer"/>
