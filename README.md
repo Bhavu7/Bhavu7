@@ -100,7 +100,9 @@
 ## 📬 Let's Connect
 
 📫 Open to collaboration and opportunities  
-Email: `bhavubhoi806@gmail.com`
+Email: bhavubhoi806@gmail.com
+
+---
 
 <p align="center"><strong>Consistency beats perfection — keep shipping.</strong></p>
 
