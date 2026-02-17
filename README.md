@@ -96,7 +96,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Bhavu7&theme=flat&no-frame=true&margin-w=15"
+    src="https://github-profile-trophy.vercel.app/?username=Bhavu7&theme=tokyonight&no-frame=true&margin-w=15"
   />
 </p>
 
