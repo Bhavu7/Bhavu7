@@ -35,7 +35,9 @@
 </p>
 
 ## 🔥 About Me
-> Engineer by logic, Artist by instinct — I craft web apps that are fast, scalable, and visually sleek.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&text=Engineer%20by%20Logic%20%E2%80%A2%20Artist%20by%20Instinct&fontSize=22&color=0:7F00FF,100:00E5FF&fontColor=ffffff"/>
+</p>
 
 - MERN Stack Developer (MongoDB, Express, React, Node.js)
 - Building apps that balance performance, DX, and UI polish
