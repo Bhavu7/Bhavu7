@@ -4,7 +4,7 @@
 <!-- Typing Hero -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hey,+I'm+Bhavesh;Full+Stack+MERN+Engineer;I+build+scalable+modern+web+apps;Clean+code.+Production+mindset."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hey,+I'm+Bhavesh;Full+Stack+Developer;Angular+%7C+React+%7C+Node.js+%7C+TypeScript;Building+scalable+production+apps;Clean+code.+Production+mindset."
     alt="Typing SVG"
   />
 </p>
@@ -38,15 +38,18 @@
 ## 💼 Professional Experience
 
 **Full Stack Developer Intern** - **Keryar**
-- Built and maintained production features using Angular, Node.js, Express, and TypeScript.  
-- Worked on API integration, backend logic, and responsive UI development using Bootstrap.
+
+- Developed and maintained production features using **Angular, Node.js, Express & TypeScript**
+- Designed and integrated **REST APIs** for frontend-backend communication
+- Contributed to backend logic, database integration, and responsive UI using **Bootstrap**
+- Collaborated in a team environment following real-world development practices
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite,jest&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite,jest,angular,bootstrap&perline=10&theme=dark" />
 </p>
 
 ---
