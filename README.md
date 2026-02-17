@@ -38,8 +38,8 @@
 ## 💼 Professional Experience
 
 **Full Stack Developer Intern** - **Keryar**
-Built and maintained production features using Angular, Node.js, Express, and TypeScript.  
-Worked on API integration, backend logic, and responsive UI development using Bootstrap.
+- Built and maintained production features using Angular, Node.js, Express, and TypeScript.  
+- Worked on API integration, backend logic, and responsive UI development using Bootstrap.
 
 ---
 
