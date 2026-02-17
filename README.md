@@ -9,6 +9,7 @@
   />
 </p>
 
+
 <h1 align="center">Full Stack Developer • Angular • React • Node.js • TypeScript</h1>
 
 <p align="center">
@@ -23,7 +24,6 @@
   </a>
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -33,7 +33,6 @@
 - 🎯 Strong in modern frontend development using **React & Angular**
 - 🧠 Passionate about **performance optimization**, **clean code**, and **production systems**
 
----
 
 ## 💼 Professional Experience
 
@@ -44,7 +43,6 @@
 - Contributed to backend logic, database integration, and responsive UI using **Bootstrap**
 - Collaborated in a team environment following real-world development practices
 
----
 
 ## 🧰 Tech Stack
 
@@ -52,7 +50,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vscode,figma,postman,vite,jest,angular,bootstrap&perline=10&theme=dark" />
 </p>
 
----
 
 ## 🔥 Featured Projects
 
@@ -63,7 +60,6 @@
 | 📝 **Note Stream – To-Do App** | Task manager with clean UX & LocalStorage persistence | HTML5, CSS3, JavaScript, Supabase | 🔗 [Live](https://note-stream-pi.vercel.app) |
 | 🧮 **OmniCalc – Calculator** | Lightweight and responsive JS calculator | HTML5, CSS3, JavaScript | 🔗 [Live](https://omnicalc.vercel.app) |
 
----
 
 ## 📊 GitHub Analytics
 
@@ -76,7 +72,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhavu7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
 
 ## 📈 Contribution Activity
 
@@ -86,7 +81,6 @@
   />
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -94,7 +88,6 @@
   <img src="https://github.com/Bhavu7/Bhavu7/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 ## 🧠 Current Focus
 
@@ -103,13 +96,11 @@
 - 🏗 Production-level architecture
 - 🌱 Building SaaS-ready projects
 
----
 
 ## 📬 Let's Connect
 
-- 🌐 Portfolio → https://bhaveshbhoi.netlify.app  
-- 🔗 All Links → https://bhavu-verse.vercel.app  
-- 💼 LinkedIn → https://www.linkedin.com/in/bhavesh-bhoi  
+📫 Open to collaboration and opportunities  
+Email: bhavubhoi806@gmail.com
 
 Email: `bhavubhoi806@gmail.com`
 
