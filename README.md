@@ -13,7 +13,7 @@
 <h1 align="center">Full Stack Developer • Angular & React • Node.js • TypeScript</h1>
 
 <p align="center">
-  <a href="https://bhaveshbhoi.netlify.app">
+  <a href="https://www.bhavvesh.in/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF">
   </a>
   <a href="https://www.linkedin.com/in/bhavesh-bhoi">
