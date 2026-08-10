@@ -16,7 +16,7 @@
   <a href="https://www.bhavvesh.in/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF">
   </a>
-  <a href="https://www.linkedin.com/in/bhavesh-bhoi">
+  <a href="https://www.linkedin.com/in/bhavesh-bhoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:bhavubhoi806@gmail.com">
