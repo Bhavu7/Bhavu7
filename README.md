@@ -97,6 +97,13 @@ I work across the full stack — PostgreSQL schemas, REST APIs with Node.js and 
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
